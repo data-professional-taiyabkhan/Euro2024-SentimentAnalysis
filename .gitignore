@@ -1,0 +1,31 @@
+# API keys — never commit these
+.env
+*.env
+secrets.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.pickle
+.ipynb_checkpoints/
+
+# Large model files
+*.bin
+*.pt
+*.safetensors
+models/
+
+# Training data (too large, download separately)
+data/tweeteval/
+data/sentiment140/
+training.1600000.processed.noemoticon.csv
+twitter_data.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
