@@ -1,6 +1,7 @@
 # Football Sentiment Analysis — Euro 2024
 
 **Predictive Power of Social Media: A Comparative Study of Classical ML, Lexicon-Based, and LLM Approaches for Football Sentiment Analysis**
+https://zenodo.org/records/19675434
 
 Mohammad Taiyab Khan | MSc Data Science & Analytics | Royal Holloway, University of London
 
